@@ -33,3 +33,8 @@ export default {
 ```
 pnpm i
 ```
+
+# ローカル環境の立ち上げ
+```
+pnpm dev
+```
